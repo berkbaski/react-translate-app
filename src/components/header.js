@@ -1,4 +1,5 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
+import { useTranslation } from "react-i18next";
 
 import HamburgerIcon from "./hambuger-icon";
 
@@ -10,6 +11,12 @@ export default function Header(props) {
         setLang(language);
         props.languageChanged(language);
     };
+
+    const {i18n} = useTranslation();
+    useEffect(() => {
+        const splitLanguage = i18n.language.split('-')[0];
+        changeLanguage(splitLanguage);
+    }, [i18n.language])
 
     const sidebar = () => (
         <div
