@@ -1,0 +1,33 @@
+{
+  "title": "Harry Potter Kitapları",
+  "books": {
+    "1": {
+      "name": "Harry Potter ve Felsefe Taşı",
+      "year": "1997"
+    },
+    "2": {
+      "name": "Harry Potter ve Sırlar Odası",
+      "year": "1998"
+    },
+    "3": {
+      "name": "Harry Potter ve Azkaban Tutsağı",
+      "year": "1999"
+    },
+    "4": {
+      "name": "Harry Potter ve Ateş Kadehi",
+      "year": "2000"
+    },
+    "5": {
+      "name": "Harry Potter ve Zümrüdüanka Yoldaşlığı",
+      "year": "2003"
+    },
+    "6": {
+      "name": "Harry Potter ve Melez Prens",
+      "year": "2005"
+    },
+    "7": {
+      "name": "Harry Potter ve Ölüm Yadigârları",
+      "year": "2007"
+    }
+  }
+}

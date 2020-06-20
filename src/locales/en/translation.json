@@ -1,0 +1,33 @@
+{
+  "title": "Harry Potter Books",
+  "books": {
+    "1": {
+      "name": "Harry Potter and the Philosopher's Stone",
+      "year": "1997"
+    },
+    "2": {
+      "name": "Harry Potter and the Chamber of Secrets",
+      "year": "1998"
+    },
+    "3": {
+      "name": "Harry Potter and the Prisoner of Azkaban",
+      "year": "1999"
+    },
+    "4": {
+      "name": "Harry Potter and the Goblet of Fire",
+      "year": "2000"
+    },
+    "5": {
+      "name": "Harry Potter and the Order of the Phoenix",
+      "year": "2003"
+    },
+    "6": {
+      "name": "Harry Potter and the Half-Blood Prince",
+      "year": "2005"
+    },
+    "7": {
+      "name": "Harry Potter and the Deathly Hallows",
+      "year": "2007"
+    }
+  }
+}
