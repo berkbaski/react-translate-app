@@ -19,34 +19,17 @@ function App() {
             <Header title={t('title')} languageChanged={changeLanguage}/>
 
             <div className="container">
-                <Card
-                    name={t('books.1.name')}
-                    year={t('books.1.year')}
-                />
-                <Card
-                    name={t('books.2.name')}
-                    year={t('books.2.year')}
-                />
-                <Card
-                    name={t('books.3.name')}
-                    year={t('books.3.year')}
-                />
-                <Card
-                    name={t('books.4.name')}
-                    year={t('books.4.year')}
-                />
-                <Card
-                    name={t('books.5.name')}
-                    year={t('books.5.year')}
-                />
-                <Card
-                    name={t('books.6.name')}
-                    year={t('books.6.year')}
-                />
-                <Card
-                    name={t('books.7.name')}
-                    year={t('books.7.year')}
-                />
+                {
+                    [1, 2, 3, 4, 5, 6, 7].map(book => (
+                        <Card
+                            key={book}
+                            name={t(`books.${book}.name`)}
+                            year={t(`books.${book}.year`)}
+                            image={t(`books.${book}.image`)}
+                            link={t(`books.${book}.wikiUrl`)}
+                        />
+                    ))
+                }
             </div>
         </div>
     );

@@ -3,31 +3,45 @@
   "books": {
     "1": {
       "name": "Harry Potter and the Philosopher's Stone",
-      "year": "1997"
+      "year": "1997",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-translate-app.appspot.com/o/en%2Fhp1.jpg?alt=media&token=08f6efe2-d2dd-43ac-b3ab-3b5ec28df423",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Philosopher%27s_Stone"
     },
     "2": {
       "name": "Harry Potter and the Chamber of Secrets",
-      "year": "1998"
+      "year": "1998",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-translate-app.appspot.com/o/en%2Fhp2.jpg?alt=media&token=856679e0-899a-4628-bc0b-3bbd6b9023f1",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Chamber_of_Secrets"
     },
     "3": {
       "name": "Harry Potter and the Prisoner of Azkaban",
-      "year": "1999"
+      "year": "1999",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-translate-app.appspot.com/o/en%2Fhp3.jpg?alt=media&token=8b209656-65fa-4430-871a-5afd911055d6",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban"
     },
     "4": {
       "name": "Harry Potter and the Goblet of Fire",
-      "year": "2000"
+      "year": "2000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-translate-app.appspot.com/o/en%2Fhp4.jpg?alt=media&token=5f9b62ad-6e1d-475b-84e4-c852b9126fd9",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Goblet_of_Fire"
     },
     "5": {
       "name": "Harry Potter and the Order of the Phoenix",
-      "year": "2003"
+      "year": "2003",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-translate-app.appspot.com/o/en%2Fhp5.jpg?alt=media&token=3f0e748a-8b01-4271-980c-5891adce2c63",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Order_of_the_Phoenix"
     },
     "6": {
       "name": "Harry Potter and the Half-Blood Prince",
-      "year": "2005"
+      "year": "2005",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-translate-app.appspot.com/o/en%2Fhp6.jpg?alt=media&token=cc81e0c7-d39e-49fb-8595-c19d83381deb",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Half-Blood_Prince"
     },
     "7": {
       "name": "Harry Potter and the Deathly Hallows",
-      "year": "2007"
+      "year": "2007",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-translate-app.appspot.com/o/en%2Fhp7.jpg?alt=media&token=c01a5bde-c26e-4296-8a67-54f779d363cd",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Deathly_Hallows"
     }
   }
 }

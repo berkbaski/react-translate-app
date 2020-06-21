@@ -1,33 +1,48 @@
 {
   "title": "Harry Potter Kitapları",
+  "imgTest": "https://productimages.hepsiburada.net/s/22/1500/9957349687346.jpg",
   "books": {
     "1": {
       "name": "Harry Potter ve Felsefe Taşı",
-      "year": "1997"
+      "year": "1997",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-translate-app.appspot.com/o/tr%2Fhp1.jpg?alt=media&token=52a623b5-65c2-4717-89b1-538ce1c5608d",
+      "wikiUrl": "https://tr.wikipedia.org/wiki/Harry_Potter_ve_Felsefe_Ta%C5%9F%C4%B1"
     },
     "2": {
       "name": "Harry Potter ve Sırlar Odası",
-      "year": "1998"
+      "year": "1998",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-translate-app.appspot.com/o/tr%2Fhp2.jpg?alt=media&token=594e40c8-2d30-4ca9-a2a6-a301c945cbc3",
+      "wikiUrl": "https://tr.wikipedia.org/wiki/Harry_Potter_ve_S%C4%B1rlar_Odas%C4%B1"
     },
     "3": {
       "name": "Harry Potter ve Azkaban Tutsağı",
-      "year": "1999"
+      "year": "1999",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-translate-app.appspot.com/o/tr%2Fhp3.jpg?alt=media&token=03a16ad6-3a78-4e5d-81bc-6909484bd3ef",
+      "wikiUrl": "https://tr.wikipedia.org/wiki/Harry_Potter_ve_Azkaban_Tutsa%C4%9F%C4%B1"
     },
     "4": {
       "name": "Harry Potter ve Ateş Kadehi",
-      "year": "2000"
+      "year": "2000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-translate-app.appspot.com/o/tr%2Fhp4.jpg?alt=media&token=60be9230-771d-46f3-8f9a-3f95159b6bfa",
+      "wikiUrl": "https://tr.wikipedia.org/wiki/Harry_Potter_ve_Ate%C5%9F_Kadehi"
     },
     "5": {
       "name": "Harry Potter ve Zümrüdüanka Yoldaşlığı",
-      "year": "2003"
+      "year": "2003",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-translate-app.appspot.com/o/tr%2Fhp5.jpg?alt=media&token=bf0b71cf-1d4c-4ea3-ad22-04d1cbe59569",
+      "wikiUrl": "https://tr.wikipedia.org/wiki/Harry_Potter_ve_Z%C3%BCmr%C3%BCd%C3%BCanka_Yolda%C5%9Fl%C4%B1%C4%9F%C4%B1"
     },
     "6": {
       "name": "Harry Potter ve Melez Prens",
-      "year": "2005"
+      "year": "2005",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-translate-app.appspot.com/o/tr%2Fhp6.jpg?alt=media&token=d04a33c1-8e7f-4512-9c92-a0fff6c25b4b",
+      "wikiUrl": "https://tr.wikipedia.org/wiki/Harry_Potter_ve_Melez_Prens"
     },
     "7": {
       "name": "Harry Potter ve Ölüm Yadigârları",
-      "year": "2007"
+      "year": "2007",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-translate-app.appspot.com/o/tr%2Fhp7.jpg?alt=media&token=f21ad119-13cf-43b8-8876-4dab4eb32ba9",
+      "wikiUrl": "https://tr.wikipedia.org/wiki/Harry_Potter_ve_%C3%96l%C3%BCm_Yadig%C3%A2rlar%C4%B1"
     }
   }
 }
